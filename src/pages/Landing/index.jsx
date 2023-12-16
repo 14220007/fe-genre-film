@@ -129,7 +129,7 @@ const Landing = () => {
                 <span className=" hidden md:block">Export CSV</span>
               </button>
               <a
-                href="https://www.netflix.com/id-en/"
+                href="http://127.0.0.1:5002/"
                 target="_blank"
                 className="flex gap-1 items-center bg-slate-700 px-4 py-2 rounded-md"
                 rel="noopener noreferrer"
